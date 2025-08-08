@@ -15,7 +15,7 @@ The framework is designed to be plant-agnostic and its effectiveness has been de
 ---
 ##  Project Motivation & Significance
 
-This project was developed to address critical challenges in the cultivation of high-value medicinal plants.
+This project was developed to address critical challenges in the cultivation of high-value plants.
 
 *   **The Problem:** Traditional disease monitoring relies on manual inspection, which is slow, labor-intensive, requires expert knowledge, and is not scalable. This often leads to delayed treatment, significant crop loss, and inconsistent product quality.
 
@@ -30,8 +30,8 @@ This project was developed to address critical challenges in the cultivation of 
 
 - **Plant-Agnostic Framework:** The methodology is designed to be easily adapted to detect diseases in any plant species.
 - **Interactive Web Dashboard:** A user-friendly interface built with **Streamlit** supporting two powerful modes:
-    - ** Image Upload & Report:** Analyze a static image to get a full diagnostic report in HTML and PDF formats.
-    - ** Live Webcam Detection:** Perform real-time disease detection using a live camera feed, a key add-on feature.
+    - **Image Upload & Report:** Analyze a static image to get a full diagnostic report in HTML and PDF formats.
+    - **Live Webcam Detection:** Perform real-time disease detection using a live camera feed, a key add-on feature.
 - **Professional Report Generation:** Automatically generates detailed reports including the annotated image, detected conditions, confidence levels, and practical care tips.
 - **Custom Model Training:** The project was built on a custom-annotated dataset, demonstrating the full workflow from scratch.
 
